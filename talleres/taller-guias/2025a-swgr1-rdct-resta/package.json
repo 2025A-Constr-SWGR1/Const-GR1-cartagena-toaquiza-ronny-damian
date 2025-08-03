@@ -1,0 +1,11 @@
+{
+  "name": "2025a-swgr1-rdct-resta",
+  "version": "1.0.0",
+  "description": "modulo de resta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronny Damián Cartagena Toaquiza",
+  "license": "ISC"
+}
